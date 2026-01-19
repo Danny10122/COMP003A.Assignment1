@@ -50,16 +50,16 @@
             Console.WriteLine("69.I enjoy going to the Zoo with my girl");
             Console.WriteLine("70.I also enjoy going to Six Flags");
             Console.WriteLine("71.I like gaining more knowledge\n72.I try to stay realistic\n73.I'm always willing to put in the work\n74.I learn from setbacks\n74.I focus on improvement\n75.I have a girlfriend that always supports me\n76.I got my driver license at 17\n77.I like hands on learning\n78.I try to sty positive\n79.I enjoy seeing progress over time\n80.I believe discipline leads to sucess");
-            Console.WriteLine("81.");
-            Console.WriteLine("82.");
-            Console.WriteLine("83.");
-            Console.WriteLine("84.");
-            Console.WriteLine("85.");
-            Console.WriteLine("86.");
-            Console.WriteLine("87.");
-            Console.WriteLine("88.");
-            Console.WriteLine("89.");
-            Console.WriteLine("90.");
+            Console.WriteLine("81.I'm focused on my future");
+            Console.WriteLine("82.I like setting personal standards");
+            Console.WriteLine("83.I try to reach my goals");
+            Console.WriteLine("84.I'm still improving myself");
+            Console.WriteLine("85.I stay committed to my plans");
+            Console.WriteLine("86.I lost my grandma last year");
+            Console.WriteLine("87.I want a meaningful career");
+            Console.WriteLine("88.I'm learning to trust my myself more");
+            Console.WriteLine("89.I believe effort builds confidence");
+            Console.WriteLine("90.I plan to go to Fresno State");
             Console.WriteLine("91.\n");
             
         }
