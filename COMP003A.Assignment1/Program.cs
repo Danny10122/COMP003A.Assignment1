@@ -28,7 +28,40 @@
             Console.WriteLine("29.I'm taking calculusII this semester");
             Console.WriteLine("30.I want a successful with my girl");
             Console.WriteLine("31.I always look ways to better myself\n32.I help others out when I can\n33.I ask a lot of questions\n33.I learn better with examples\n34.I enjoy playing video games\n35.I like strategy based games\n36.I always think before choosing\n37.I enjoy trying new things with my girl\n38.I always learn from my mistakes\n39.My dream car is a BMW M5\n40.I can be quiet sometimes");
-            Console.WriteLine("41.");
+            Console.WriteLine("41.I listen more thank I talk");
+            Console.WriteLine("42.I wouldn't want to go in debt");
+            Console.WriteLine("43.I care about my future");
+            Console.WriteLine("44.I've been to Mexico a good amount of times");
+            Console.WriteLine("45.I always have respect for people");
+            Console.WriteLine("46.I like seeing results");
+            Console.WriteLine("47.I want to get BIGGG");
+            Console.WriteLine("48.I like honesty");
+            Console.WriteLine("49.I try hard to be responsible");
+            Console.WriteLine("50.I like when people give straight forward answers");
+            Console.WriteLine("51.\n");
+            Console.WriteLine("61.");
+            Console.WriteLine("62.");
+            Console.WriteLine("63.");
+            Console.WriteLine("64.");
+            Console.WriteLine("65.");
+            Console.WriteLine("66.");
+            Console.WriteLine("67.");
+            Console.WriteLine("68.");
+            Console.WriteLine("69.");
+            Console.WriteLine("70.");
+            Console.WriteLine("71.\n");
+            Console.WriteLine("81.");
+            Console.WriteLine("82.");
+            Console.WriteLine("83.");
+            Console.WriteLine("84.");
+            Console.WriteLine("85.");
+            Console.WriteLine("86.");
+            Console.WriteLine("87.");
+            Console.WriteLine("88.");
+            Console.WriteLine("89.");
+            Console.WriteLine("90.");
+            Console.WriteLine("91.\n");
+            
         }
     }
 }
