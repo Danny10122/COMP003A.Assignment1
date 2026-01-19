@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Hello there");
             Console.WriteLine("Here are 100 Things About Me");
             Console.WriteLine("1.My name is Daniel Juarez");
             Console.WriteLine("2.I graduated from Lemoore High School");
@@ -39,16 +39,16 @@
             Console.WriteLine("49.I try hard to be responsible");
             Console.WriteLine("50.I like when people give straight forward answers");
             Console.WriteLine("51.I like learning at my own pace\n52.I like improving my skills\n53.I like to figure things out myself first\n54.I try being independent\n55.I try to adapt to things when I need to\n56.I learn from experience\n57.I always put my experience to use\n58.I like simple explanations\n59.I ask for help when I need it\n60.I want to be succesful for my family");
-            Console.WriteLine("61.");
-            Console.WriteLine("62.");
-            Console.WriteLine("63.");
-            Console.WriteLine("64.");
-            Console.WriteLine("65.");
-            Console.WriteLine("66.");
-            Console.WriteLine("67.");
-            Console.WriteLine("68.");
-            Console.WriteLine("69.");
-            Console.WriteLine("70.");
+            Console.WriteLine("61.I always try to stay motivated");
+            Console.WriteLine("62.I believe effort matters");
+            Console.WriteLine("63.I like the challenges");
+            Console.WriteLine("64.I enjoy progess");
+            Console.WriteLine("65.I try to stay determined");
+            Console.WriteLine("66.I believe consistency");
+            Console.WriteLine("67.I like to say 67");
+            Console.WriteLine("68.I want a good paying career");
+            Console.WriteLine("69.I enjoy going to the Zoo with my girl");
+            Console.WriteLine("70.I also enjoy going to Six Flags");
             Console.WriteLine("71.\n");
             Console.WriteLine("81.");
             Console.WriteLine("82.");
