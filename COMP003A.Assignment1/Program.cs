@@ -60,7 +60,7 @@
             Console.WriteLine("88.I'm learning to trust my myself more");
             Console.WriteLine("89.I believe effort builds confidence");
             Console.WriteLine("90.I plan to go to Fresno State");
-            Console.WriteLine("91.\n");
+            Console.WriteLine("91.I want to leave a positive impact\n92.I take pride for how I do\n93.I'm building the future I want\n94.I value learning from others\n95.I work at store 95 from IN N OUT\n96.I take reponsibility for my actions\n97.I like pushing my limits\n98.I'm a curious person\n99.I stay calm under pressure\n100.I trust the process");
             
         }
     }
