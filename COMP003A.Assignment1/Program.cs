@@ -21,13 +21,14 @@
             Console.WriteLine("22.My old car's transmission broke on me");
             Console.WriteLine("23.I played sports");
             Console.WriteLine("24.I grew up in a small town");
-            Console.WriteLine("25Family is important for me");
+            Console.WriteLine("25.Family is important for me");
             Console.WriteLine("26.I plan to major in eletrical engineering");
             Console.WriteLine("27.I enjoy problem sloving");
             Console.WriteLine("28.I like learning how things work");
             Console.WriteLine("29.I'm taking calculusII this semester");
             Console.WriteLine("30.I want a successful with my girl");
-            Console.WriteLine(""
+            Console.WriteLine("31.I always look ways to better myself\n32.I help others out when I can\n33.I ask a lot of questions\n33.I learn better with examples\n34.I enjoy playing video games\n35.I like strategy based games\n36.I always think before choosing\n37.I enjoy trying new things with my girl\n38.I always learn from my mistakes\n39.My dream car is a BMW M5\n40.I can be quiet sometimes");
+            Console.WriteLine("41.");
         }
     }
 }
