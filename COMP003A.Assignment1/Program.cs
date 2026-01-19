@@ -16,7 +16,8 @@
             Console.WriteLine("8.I have 4 siblings");
             Console.WriteLine("9.People call me Danny");
             Console.WriteLine("10.I have an amazing girlfriend");
-            Console.WriteLine("\n");
+            Console.WriteLine("11.I'm the middle child\n12.I'm 5'7\n13.I enjoy spending time with my girl\n14.I love eating Mexican food\n15.I enjoy working with my girl\n16.I like working out\n17.I work at IN N OUT\n18.I like going on walks with my girl\n19.I like napping\n20.I play on a ps5");
+            Console.WriteLine("21.");
 
         }
     }
