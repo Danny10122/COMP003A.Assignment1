@@ -49,7 +49,7 @@
             Console.WriteLine("68.I want a good paying career");
             Console.WriteLine("69.I enjoy going to the Zoo with my girl");
             Console.WriteLine("70.I also enjoy going to Six Flags");
-            Console.WriteLine("71.\n");
+            Console.WriteLine("71.I like gaining more knowledge\n72.I try to stay realistic\n73.I'm always willing to put in the work\n74.I learn from setbacks\n74.I focus on improvement\n75.I have a girlfriend that always supports me\n76.I got my driver license at 17\n77.I like hands on learning\n78.I try to sty positive\n79.I enjoy seeing progress over time\n80.I believe discipline leads to sucess");
             Console.WriteLine("81.");
             Console.WriteLine("82.");
             Console.WriteLine("83.");
